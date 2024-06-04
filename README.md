@@ -3,6 +3,8 @@ _Fuente:_
 - Atlassian
 Notas de lectura de mi curso lima-code-102n3
 
+> Una mentalidad de crecimiento me abre a más creatividad y posibilidades, y descubro que soy capaz de conseguir más cosas y fijarme metas más altas.
+
 El growth mindset es la creencia de que *las habilidades pueden ser cultivadas* a través de perserverancia y esfuerzo. El talento y la inteligencia sólo son un buen comienzo. 
 
 ## Tips para Mantener un Growth Mindset
@@ -15,7 +17,7 @@ Los siguientes son tips para mantener un growth mindset diariamente:
 
 ### Autor: 
 - STEVE HAFFENDEN
-### Fuente 
+### Enlace 
 [Atlassian: Growth Mindset](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
 
 # About Me
