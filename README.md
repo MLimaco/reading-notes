@@ -8,7 +8,7 @@ Notas de lectura de mi curso lima-code-102n3
 El growth mindset es la creencia de que *las habilidades pueden ser cultivadas* a través de perserverancia y esfuerzo. El talento y la inteligencia sólo son un buen comienzo. 
 
 ## Tips para Mantener un Growth Mindset
-Los siguientes son tips para mantener un growth mindset diariamente :+1: : 
+Los siguientes son tips para mantener un growth mindset diariamente 👌 : 
 - Enfrentar los retos **poco a poco**, tratando de encontrar otras formas de afrontarlo hasta encontrar la solución. <sup> 1 </sup>
 - Si se encuentra un obstáculo que resulta frustrante o poco motivador de hacer, **detenerse**, regresar cuando se encuentre más inspirado. ~~Evitar continuar si es altamente frustrante, es perder tiempo~~.
     - A veces hacer otras tareas más fáciles antes ayuda a construir "momentum" y la propia motivación ayudará a ver el problema de otro ángulo. 
