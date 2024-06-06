@@ -26,7 +26,7 @@ Los siguientes son tips para mantener un growth mindset diariamente :+1: :
 # About Me
 Michael Límaco Chavez
 
-![Imagen de Perfil](https://github.com/MLimaco/reading-notes/blob/c6afe214cabdf60b4815d6adc022cab93bf5a93c/1516965564938.jpg)
+![Imagen de Perfil](1516965564938.jpg)
 
 Growth hacker, especializado en paid media, con más de 10 años de experiencia.
 
