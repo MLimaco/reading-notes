@@ -1,5 +1,5 @@
 # Introducción a Git
-Notas
+Git es un sistema de control de versiones nacido en el 2005, creado por el equipo de Linus Torvalds durante el desarrollo del kernel de Linux con un flujo similar a BitKeeper, el sistema de control de versiones usado con anterioridad y que dicho equipo abandonó después de diferentes tensiones entre la comunidad Linux y la empresa detrás de BitKeeper, que además empezó a cobrar por el servicio. 
 # Resolución de Preguntas
 1. ¿Qué es el control de versiones?
 Es un sistema que permite revisar varias versiones de un documento o grupo de documentos mediante el guardado de cambios constante. Mediante el control de versiones se puede modificar un archivo para regresar a una versión anterior, mantener el control de que cambios se hicieron e incluso compararlo. Funciona no sólo como forma segura de evitar que se pierdan los avances, sino también para facilitar la detección de errores al momento de realizar cambios en un archivo. Por otro lado, permite que multiples personas puedan trabajar en paralelo en el mismo proyecto a través del DCVS (control de versiones distribuido), cada usuario tiene una copia del repositorio, pero estas copias intercambian y actualizan revisiones entre sí. 
