@@ -21,8 +21,8 @@ Es un sistema que permite revisar varias versiones de un documento o grupo de do
 2. ¿Qué es “clone” en Git?
 Clonar es crear una copia de un repositorio existente. Al momento de clonar un repositorio, generas una copia de todas las versiones del proyecto en el repositorio.
 3. ¿Cuál es el comando para rastrear y preparar archivos?
-`$ git add *.c` `$ git add LICENSE` `$ git commit -m “any message here”`
+`$ git add *nombre del archivo*` también puede ser `$ git add *nombre del archivo*`
 5. ¿Cuál es el comando para tomar una instantánea de los archivos modificados?
-`$ git commit -a`
+`$ git commit -m "especificacion de los cambios realizados"`
 6. ¿Cuál es el comando para enviar los archivos modificados a Github?
-`$ git push origin master`
+`$ git push origin main`
