@@ -20,6 +20,7 @@ El CSS, u hoja de estilo en cascada, permiten controlar con precisión como se v
     2. Interna: aplicando css usando la regla style en el `<head></head>`. Sirve para aplicar estilos a una sóla página web, no aplica estilos a todas las páginas. Para ello habría que aplicar el style página por página. 
     3. Externa: a través de una hoja de estilos externa, esta se puede aplicar a multiples páginas. Es el método más usado para aplicar CSS. 
 3. Escribe un ejemplo de una regla CSS que daría texto rojo a todos los elementos `<p>`.
+
 ```
 <style>
         p {
