@@ -14,11 +14,15 @@ Cuando trabajamos con HTML se puede ingresar el código javascript directamente 
 
 Se debe considerar que existen diversas formas de que el javascript pueda mostrar "texto" para que el usuario pueda leer, las mas simples son:
 
-*'alert' muestra un modal en el navegador con el texto indicado. 
-*'document.write' cambia o muestra texto directamente en el navegador, sin necesidad de pop ups. 
-*'console.log' muestra texto en la consola, esto quiere decir que no es visible a simple vista para el usuario pero puede acceder a el accediendo a la consola, que es donde normalmente se muestran errores y alertas. 
-*'confirm' muestra un modal con el texto indicado y los botones ok/cancel.
-*'prompt' de manera similar al confirm muestra un modal en el navegador con el texto indicado, los botones ok/cancel y ademas un espacio para que el usuario pueda llenar.
+* `alert` muestra un modal en el navegador con el texto indicado.
+
+* `document.write` cambia o muestra texto directamente en el navegador, sin necesidad de pop ups.
+
+* `console.log` muestra texto en la consola, esto quiere decir que no es visible a simple vista para el usuario pero puede acceder a el accediendo a la consola, que es donde normalmente se muestran errores y alertas.
+
+* `confirm` muestra un modal con el texto indicado y los botones ok/cancel.
+
+* `prompt` de manera similar al confirm muestra un modal en el navegador con el texto indicado, los botones ok/cancel y ademas un espacio para que el usuario pueda llenar.
 
 Cuando uno habla de JavaScript comúnmente podría estarse refiriendo a 3 diferentes ejecuciones:
 
