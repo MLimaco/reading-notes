@@ -2,7 +2,23 @@
 
 Javascript o JS es un lenguaje de programación diferente a Java, que se le conoce como lenguaje "ligero", esto quiere decir que el código de javascript se ejecuta sólo cuando se necesita, permitiendo correr diferentes programas de manera más eficiente y rápida.
 
-Javascript corre en la gran mayoría de navegadores ya que se suele incluir alguno que otro código javascript en la página HTML para ejecutar alguna función en particula, a esto normalmente se le conoce como ejecución del lado de cliente. Pero, también es capaz de correr en otros programas como node.js, io.js, etc; estos programas, mediante javascript, permiten ejecutar acciones del lado del servidor como por ejemplo conectar una web a una base de datos.
+Javascript corre en la gran mayoría de navegadores ya que se suele incluir alguno que otro código javascript en la página HTML para ejecutar alguna función en particular, a esto normalmente se le conoce como ejecución del lado de cliente. Pero, también es capaz de correr en otros programas como node.js, io.js, etc; estos programas, mediante javascript, permiten ejecutar acciones del lado del servidor como por ejemplo conectar una web a una base de datos.
+
+Cuando trabajamos con HTML se puede ingresar el código javascript directamente en el archivo HTML o se puede también trabajar por separado en una hoja aparte con la terminación .js y agregarla al archivo HTML mediante la etiqueta <script>.
+
+```
+<body>
+<script src= "app.js"></script>
+</body>
+```
+
+Se debe considerar que existen diversas formas de que el javascript pueda mostrar "texto" para que el usuario pueda leer, las mas simples son:
+
+*'alert' muestra un modal en el navegador con el texto indicado. 
+*'document.write' cambia o muestra texto directamente en el navegador, sin necesidad de pop ups. 
+*'console.log' muestra texto en la consola, esto quiere decir que no es visible a simple vista para el usuario pero puede acceder a el accediendo a la consola, que es donde normalmente se muestran errores y alertas. 
+*'confirm' muestra un modal con el texto indicado y los botones ok/cancel.
+*'prompt' de manera similar al confirm muestra un modal en el navegador con el texto indicado, los botones ok/cancel y ademas un espacio para que el usuario pueda llenar.
 
 Cuando uno habla de JavaScript comúnmente podría estarse refiriendo a 3 diferentes ejecuciones:
 
@@ -46,4 +62,4 @@ Estos operadores se pueden  usar para por ejemplo correr contadores de tiempo en
 
 4. ¿Cómo se llama la información recibida del usuario?
 
-Se les llama "inputs" y se puede hacer mediante algunas funciones como `prompt` o `confirm`, que permiten al usuario proporcionar "información" a través de una web, por ejemplo. 
+Se les llama "inputs" y se puede hacer mediante algunas funciones como `prompt` o `confirm`, que permiten al usuario proporcionar "información" a través de una web, por ejemplo.
