@@ -2,6 +2,11 @@
 
 ## Aprende HTML
 
+Aplicaciones de lo aprendido durante la lectura:
+1. Listas, aplicable para trabajar con instrucciones, guías, índices, etc. Es más que nada agregado al conocimiento de elementos html. 
+2. Box Model, las propiedades margin y padding son súper utiles para definir el espacio de cualquier sección. Súper util para que no se vea todo apachurrado, sino que los elementos tengan una estética agradable. 
+3. Arrays, operadores y expresiones condicionales/bucles. Tienen varias aplicaciones particularmente en el ámbito de la refactorización, para poder hacer el código mucho más ligero. 
+
 ### Listas Ordenada y No ordenada
 
 1. ¿Cuándo se puede utilizar una lista no ordenada en tu documento HTML?
