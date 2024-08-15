@@ -61,3 +61,9 @@ Un parámetro es una variable que se utiliza al declarar la función. Un argumen
     * Feedback rápido
 
     Creo que estos son los puntos más importantes en la forma en la que trabajo yo, dado que creo que es más práctico que una persona se enfoque en escribir código, desarrollar el producto y la otra persona se puede enfocar en hacer correcciones en tiempo real y fixear errores rápidamente.
+
+## Cosas de las que quiero saber más
+
+* Absolute positioning es algo que me interesaría conocer, particularmente en casos prácticos. 
+* Me gustaría aprender más a profundidad de funciones, ya que es algo que veo que se utiliza mucho en temas de etiquetado de plataformas para medición. Y veo también que es algo importante para la ejecución y aprendizaje de javascript.
+* Pair programming es algo que me llama la atención como metodología de trabajo, pero no sé si es algo que se aplique mucho en el mercado laboral actual.
