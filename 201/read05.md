@@ -1,4 +1,7 @@
 # Lectura 5
+
+Creo que esta lectura es valiosa para la implementacion de temas de accesibilidad de cara a personas con discapacidad visual, y en cuanto a temas de orden con el uso de tamaño de caracteres, que creo que es algo fácil de descuidar si se toma sólo usando valores numéricos como píxeles en lugar de la unidad rem.
+
 ## Medios en HTML
 
 1. ¿Cuál es un caso práctico del atributo alt en una página web?
@@ -44,3 +47,7 @@ Son las propiedades que definen como se va a presentar el texto en la web. El fo
 5. Describe dos formas de añadir espaciado alrededor de los caracteres mostrados en un elemento h1.
 
 Letter spacing y word spacing, la diferencia es que una controla el espacio entre letras y la otra entre palabras del texto. 
+
+## Cosas de las que quiero saber más
+
+Me llama la atención temas de accesibilidad, creo que es un espacio que no se ha tocado en muchas empresas y en las que hay un espacio grande para crecer. ¿Qué otros elementos html se pueden usar de mejor forma para facilitar el uso de web por lectores de pantalla? ¿Existen formatos específicos de archivos de imagen/adjuntos?
