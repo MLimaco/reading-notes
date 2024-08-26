@@ -36,3 +36,9 @@
 Para poder enviar materiales a diseñar para mis anuncios tengo templates o plantillas, los prototipos son como esas plantillas. Simplemente hay que cambiar texto e imagen de fondo y la plantilla se encarga de colocar bordes, estilog gráfico, fuentes, logo de marca, etc. 
 
 En el caso de las herencias es como hacer duplicados de campañas, al crear el duplicado la nueva campaña puede "heredar" configuraciones de la original, haciendome el trabajo mucho más fácil. 
+
+## Cosas de las que quiero saber más
+
+Creo que no he entendido bien el tema de objetos constructores y heredados, sobre el resto lo entiendo. Entiendo la importancia de aclarar porqué no se debe construir en tablas, ya que antes era bastante común y la verdad que es un método poco amigable y complejo. 
+
+Por otro lado, el tema de domain modeling lo comprendo, tengo que entenderlo, pero me sigue pareciendo complejo de ejecutar. 
