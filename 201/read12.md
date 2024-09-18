@@ -37,3 +37,7 @@
 7. ¿Cómo puede ayudar Chart.js a tus aplicaciones creadas anteriormente?
 
     En el caso del ejercicio de odd duck se podría mostrar un gráfico de barras de cada imagen clickeada. También se podría usar en el ejercicio de la tienda de galletas para poder mostrar las tiendas con mayor afluencia de gente, o mayor número de galletas vendidas por persona, etc. 
+
+## Cosas de las que quiero saber mas
+
+Me interesaría saber mas de la aplicación de canvas en el mundo de los videojuegos, por temas personales. Creo que la posibilidad de generar animaciones simples y arte con cosas como pixel art tienen un nicho interesante y de gran alcance. 

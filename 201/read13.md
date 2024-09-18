@@ -1,4 +1,4 @@
-# Lectura 12
+# Lectura 13
 
 ## Local Storage and How To Use It On Websites
 
@@ -13,3 +13,7 @@
 3. ¿Qué tipo de datos se pueden guardar en el local storage? ¿Cómo puedes convertirlo a ese tipo de archivo antes de guardarlo?
 
     Como mencioné en la respuesta anterior sólo se puede guardar strings en el local storage. 
+
+## Cosas de las que quiero saber más
+
+Quisiera profundizar en la parte de las cookies por razones laborales, tiene bastantes ejecuciones particularmente para el tema de guardado de información. Me interesaría tambien sobre el envio de datos de forma asíncrona.
