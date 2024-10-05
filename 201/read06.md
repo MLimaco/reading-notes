@@ -51,3 +51,7 @@ En el codigo `this` refiere al objeto `dog`.
 7. Describe brevemente la relación entre el DOM y JavaScript.
 
     Javascript utiliza el DOM para acceder al documento y sus elementos para alterarlo. El contenido de la página es almacenado en DOM y el acceso y la manipulación se hace vía JavaScript
+
+## Cosas de las que quiero saber más
+
+Me gustaría dominar bien el DOM, creo que es importante para poder tener clara la creación de elementos usando javascript, por otro lado también tiene aplicaciones laborales para mi, particularmente por el tema del etiquetado ya que puedes llamar a elementos del DOM para poder gatillar eventos.
