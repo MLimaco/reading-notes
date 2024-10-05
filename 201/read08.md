@@ -14,7 +14,12 @@
 ## CSS Layout - Flexbox
 
 4. ¿Cuáles son algunas de las ventajas de utilizar flexbox sobre float?
+    
+    Flexbox es mucho más simple de usar ya que son cajas, mientras con float el elemento se desconecta por lo que puede ser complicado alinearlo y que funcione bien al interactuar con la web. Por otro lado con flexbox puedes usar las propiedades justify-content o align-items para distribuir el contenido de forma rápida, mientras que en float tienes que ser específico con la ubicación de el contenido. 
 
 5. ¿Cómo es que este tema se conecta con tus metas a largo plazo?
 
+    Creo que por mientras me limitaré a entender bien el flexbox que veo que se utiliza con mayor frecuencia, sin embargo, en un punto tendré que tocar ambas con más detalle. Por otro lado, creo que flexbox es mucho más responsivo para trabajar ya que en el caso de float hay que ser muy específico con la ubicación de los elementos contenidos. 
+
 ## Cosas de las que quiero aprender más
+En general creo que tengo que dominar bien ambos para poder trabajar, por lo que no creo que haya algo en específico. En todo caso si se tratara de priorizar el flexbox sería lo primero que creo que trataría de aprender bien. 
