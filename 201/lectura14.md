@@ -25,3 +25,5 @@ What Google Learned From Its Quest to Build the Perfect Team
         3. Desempeño mejorado: Los dos puntos anteriores afectan de forma directa a un desempeño positivo en las actividades laborales.
 
 ## Cosas de las que me gustaría aprender más
+
+Más allá que "me gustaría aprender" me gustaría poder experimentar como es trabajar del todo en un ambiente así, en muchas empresas peruanas el ambiente tiende a ser más cuadriculado. Por mi lado como líder de pequeños equipos me esfuerzo por lograr las condiciones para que mi equipo se sienta cómodo y pueda expresarse libremente.
