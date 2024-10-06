@@ -46,4 +46,5 @@ Esta página es un repositorio de todas las lecturas desarrolladas durante el bo
 13. [Lectura 13](/201/read013.md)
 14. [Lectura 14](/201/read014.md)
 15. [Lectura 15](/201/read015.md)
-16. [Ai e Ingenieria de Prompts](/201/Entregables/prompt-engineering.md)
+16. [Lectura 14 Seguridad Psicológica](/201/lectura14.md)
+17. [Ai e Ingenieria de Prompts](/201/Entregables/prompt-engineering.md)
