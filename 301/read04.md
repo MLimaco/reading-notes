@@ -1,4 +1,4 @@
-#Formularios Controlados en React
+# Formularios Controlados en React
 En React, los formularios controlados permiten gestionar los datos ingresados por el usuario mediante el estado del componente. A diferencia de los formularios tradicionales en HTML, donde los valores se almacenan directamente en el DOM, en React cada campo de entrada está vinculado a una variable de estado, asegurando sincronización y control total sobre los datos.
 
 ## ¿Por qué usar formularios controlados?
